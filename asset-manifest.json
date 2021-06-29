@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Mi-portafolio/static/css/main.f3024c98.chunk.css",
+    "main.js": "/Mi-portafolio/static/js/main.036056bc.chunk.js",
+    "main.js.map": "/Mi-portafolio/static/js/main.036056bc.chunk.js.map",
+    "runtime-main.js": "/Mi-portafolio/static/js/runtime-main.65a03bfd.js",
+    "runtime-main.js.map": "/Mi-portafolio/static/js/runtime-main.65a03bfd.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Mi-portafolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.cdf33492.chunk.js": "/Mi-portafolio/static/js/2.cdf33492.chunk.js",
+    "static/js/2.cdf33492.chunk.js.map": "/Mi-portafolio/static/js/2.cdf33492.chunk.js.map",
+    "index.html": "/Mi-portafolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Mi-portafolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.f3024c98.chunk.css.map": "/Mi-portafolio/static/css/main.f3024c98.chunk.css.map",
+    "static/js/2.cdf33492.chunk.js.LICENSE.txt": "/Mi-portafolio/static/js/2.cdf33492.chunk.js.LICENSE.txt",
+    "static/media/Mockup.4a8497d1.png": "/Mi-portafolio/static/media/Mockup.4a8497d1.png",
+    "static/media/github.84f0d9b2.svg": "/Mi-portafolio/static/media/github.84f0d9b2.svg",
+    "static/media/insta.b33e7279.svg": "/Mi-portafolio/static/media/insta.b33e7279.svg",
+    "static/media/linkedin.f4d669a7.svg": "/Mi-portafolio/static/media/linkedin.f4d669a7.svg",
+    "static/media/perfil.4a7ff5b2.png": "/Mi-portafolio/static/media/perfil.4a7ff5b2.png",
+    "static/media/signos.65284562.png": "/Mi-portafolio/static/media/signos.65284562.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65a03bfd.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.cdf33492.chunk.js",
+    "static/css/main.f3024c98.chunk.css",
+    "static/js/main.036056bc.chunk.js"
+  ]
+}
